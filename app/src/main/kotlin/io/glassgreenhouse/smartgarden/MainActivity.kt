@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
             SmartGardenTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-                    Greeting("Android")
+                    Greeting("Glass Green House")
                 }
             }
         }
@@ -28,13 +28,13 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Greeting(name: String) {
-    Text(text = "Hello $name!")
+    Text(text = "Bem vindo ao $name!")
 }
 
 @Preview(showBackground = true)
 @Composable
 fun DefaultPreview() {
     SmartGardenTheme {
-        Greeting("Android")
+        Greeting("Glass Green House")
     }
 }
