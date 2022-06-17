@@ -1,4 +1,4 @@
-package io.glassgreenhouse.smartgarden
+package com.example.smartgardenapp_new
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("io.glassgreenhouse.smartgarden", appContext.packageName)
+        assertEquals("com.example.smartgardenapp_new", appContext.packageName)
     }
 }

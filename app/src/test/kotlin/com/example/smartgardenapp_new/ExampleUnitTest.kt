@@ -1,4 +1,4 @@
-package io.glassgreenhouse.smartgarden
+package com.example.smartgardenapp_new
 
 import org.junit.Test
 
