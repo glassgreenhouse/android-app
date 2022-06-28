@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1653163584692.xml" value="1.2121212121212122" />
+        <entry key="../../../../layout/compose-model-1653169033893.xml" value="1.2121212121212122" />
+        <entry key="../../../../layout/compose-model-1654092803018.xml" value="1.2121212121212122" />
+        <entry key="../../../../layout/compose-model-1654093189800.xml" value="1.2121212121212122" />
+        <entry key="../../../../layout/compose-model-1654197874004.xml" value="1.2154882154882154" />
+        <entry key="../../../../layout/compose-model-1654198800995.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1654202254775.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1654224902588.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1654225211788.xml" value="0.17989864864864866" />
+        <entry key="../../../../layout/compose-model-1654472570599.xml" value="1.1702127659574468" />
+        <entry key="../../../../layout/compose-model-1654475118989.xml" value="1.1702127659574468" />
+        <entry key="../../../../layout/compose-model-1654475284685.xml" value="0.3049645390070922" />
+        <entry key="../../../../layout/compose-model-1654475319523.xml" value="1.0" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/splash_screen.xml" value="0.1075" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_secound.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
